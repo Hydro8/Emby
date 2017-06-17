@@ -6,3 +6,12 @@ c:\users\alpha\documents\visual studio 2017\Projects\Constellation\Constellation
 c:\users\alpha\documents\visual studio 2017\Projects\Constellation\Constellation\bin\Debug\MediaBrowser.Model.dll
 c:\users\alpha\documents\visual studio 2017\Projects\Constellation\Constellation\obj\Debug\Constellation.dll
 c:\users\alpha\documents\visual studio 2017\Projects\Constellation\Constellation\obj\Debug\Constellation.pdb
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\Configuration\config.html
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\Constellation.dll
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\Constellation.pdb
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\MediaBrowser.Common.dll
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\MediaBrowser.Controller.dll
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\MediaBrowser.Model.dll
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.csprojResolveAssemblyReference.cache
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.dll
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.pdb
