@@ -17,8 +17,10 @@ namespace Constellation.Configuration
     {
         public Boolean Enabled { get; set; }
         public String Url { get; set; }
-        public String Port { get; set; }
-        public String Token { get; set; }
+        public int Port { get; set; }
+        public String Sentinel { get; set; }
+        public String Package { get; set; }
+        public String Credential { get; set; }
         public String DeviceId { get; set; }
         public string MediaBrowserUserId { get; set; }
     }

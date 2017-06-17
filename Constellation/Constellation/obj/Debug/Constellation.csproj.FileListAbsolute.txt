@@ -15,3 +15,4 @@ C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\MediaBrow
 C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.csprojResolveAssemblyReference.cache
 C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.dll
 C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\obj\Debug\Constellation.pdb
+C:\Users\Alpha\Source\Repos\Emby\Constellation\Constellation\bin\Debug\Constellation.png

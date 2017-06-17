@@ -35,6 +35,7 @@
   <ItemGroup>
     <Compile Include="Api\ServerApiEntryPoints.cs" />
     <Compile Include="Configuration\PluginConfiguration.cs" />
+    <Compile Include="Notifier.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -56,6 +57,11 @@
     <EmbeddedResource Include="Configuration\config.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Constellation.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <PropertyGroup>
